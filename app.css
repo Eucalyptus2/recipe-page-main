@@ -10,7 +10,7 @@ body{
     padding: 40px 0;
 }
 
-@media (min-width: 320px) {
+@media (min-width: 1440px) {
     body {
       padding: 40px 0; /* more space on big screens */
       justify-content: center;
