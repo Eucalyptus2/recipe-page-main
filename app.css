@@ -10,7 +10,7 @@ body{
     padding: 40px 0;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 320px) {
     body {
       padding: 40px 0; /* more space on big screens */
       justify-content: center;
@@ -20,6 +20,7 @@ body{
       max-width: 700px; /* wider container for desktop */
     }
   }
+  
 
 /* Adjusting the entirety of the whole container and specifics within the container*/ 
 .container{
